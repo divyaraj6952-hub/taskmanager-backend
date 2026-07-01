@@ -2,7 +2,7 @@
 
 A full-stack Task Manager application built using the MERN stack. It allows users to register, log in securely, and manage their personal tasks with features like search, filtering, sorting, editing, deleting, and pagination.
 
-#frontend-link : 
+#frontend-link : https://github.com/divyaraj6952-hub/taskmanager-frontend
 ---
 
 ## 🚀 Features
